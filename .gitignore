@@ -2,3 +2,4 @@
 zig-out/
 deps/steamworks/
 libc.txt
+.DS_Store
